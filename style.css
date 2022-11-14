@@ -109,7 +109,13 @@ input[type=password]{
     padding: 10px;
 }
 
-input[type=text]{
+/* input[type=text]{
+    width: 150px;
+    margin-top: 10px;
+    padding: 10px;
+} */
+
+.usrnm {
     width: 150px;
     margin-top: 10px;
     padding: 10px;
