@@ -435,7 +435,7 @@ var server = http.createServer(function(request,response){
                                     </tr>
                                 </table>
                             </form>
-                            <button type="submit"><a href='/'>Kembali</a></button>
+                            <button type="submit"><a href='/'>Log Out</a></button>
                         </div>
                     </div>
                     <br>
