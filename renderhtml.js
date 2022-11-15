@@ -219,7 +219,7 @@ var server = http.createServer(function(request,response){
                             <a href="/hal4">About Us</a>
                         </li>
                         <li>
-                            <a href="/login">Login</a>
+                            <a href="/">Log Out</a>
                         </li>
                     </ul>
                     <div class="container">
@@ -390,10 +390,7 @@ var server = http.createServer(function(request,response){
                             <a href="/hal4">About Us</a>
                         </li>
                         <li>
-                            <a href="/login">Login</a>
-                        </li>
-                        <li>
-                            <a href="/signup">Sign Up</a>
+                            <a href="/">Log Out</a>
                         </li>
                     </ul>
                     <div class="">
